@@ -1,1 +1,13 @@
-﻿  Sternbild Empire.vcxproj -> F:\First Year\Games Portfolio 1\Text Adventure\Sternbild Empire\Debug\Sternbild Empire.exe
+﻿  stdafx.cpp
+  boss.cpp
+f:\first year\games portfolio 1\text adventure\sternbild empire\sternbild empire\boss.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\first year\games portfolio 1\text adventure\sternbild empire\sternbild empire\boss.cpp(87): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  chestClass.cpp
+  map.cpp
+  monster.cpp
+f:\first year\games portfolio 1\text adventure\sternbild empire\sternbild empire\monster.cpp(82): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\first year\games portfolio 1\text adventure\sternbild empire\sternbild empire\monster.cpp(125): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+f:\first year\games portfolio 1\text adventure\sternbild empire\sternbild empire\main.cpp(212): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Sternbild Empire.vcxproj -> F:\First Year\Games Portfolio 1\Text Adventure\Sternbild Empire\Debug\Sternbild Empire.exe
