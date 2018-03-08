@@ -1,0 +1,18 @@
+Objective: Get to the town as fast as possible
+- Can't bee line to the town because the bosses blocking the town has 15 strength, with the player starting at 10 strength
+- Player can increase strength by exploring and finding chest
+	- There are two types of chests; potions and inventory
+	- The inventory chest contains a sword upgrade (increases strength by 2) and an armour upgrade (increases health by 2)
+	- The potions chest contains a health potion (increases health by 1), a strength potion (increases strength by 1) and a speed potion (increases speed by 1)
+
+- The idea behind this game is that multiple people can play
+- The game has a highschore at the end
+- Their time is their score
+- The time it takes for the player to type also gets taken into account so to some extent, it has a typing minigame
+- The player can also choose to fight or run away from the monster
+	- The player must get a random roll higher than the monster strength to kill the monster, but they can decide to fight again until they run out of health
+	- The player must get a random roll higher than the monster speed to successfully run from the monster, if not, they lose 2 health
+- The player must balance between exploring the game and trying to get to the town as quick as possible
+- The player must also be careful when deciding which item to take from the chest, because once they take an item, the chest disappears
+- The player must fight the alpha wolf to get the 10+ health potion
+- Once the player has discovered a grid, they cannot replay it again
